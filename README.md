@@ -1,2 +1,2 @@
 solveing java
-practicing
+practicing.
