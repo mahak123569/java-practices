@@ -1,4 +1,4 @@
 solveing java
 practicing.
 daliy
-new question from java
+new question from java.
