@@ -67,10 +67,4 @@ git clone https://github.com/mahak123569/java-practices.git
 
 ---
 
-## ⭐ Support
 
-If you find this repository helpful, feel free to **star ⭐ the repository**.
-
----
-
-If you want, I can also give you a **much better professional README (with badges, stats, and screenshots)** so your GitHub looks **more attractive for recruiters**.
