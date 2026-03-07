@@ -1,11 +1,3 @@
-You can add this **README.md** to your repository
-👉 GitHub repository:
-**java-practices GitHub repository**
-
-I wrote it so you can **copy-paste directly**.
-
----
-
 # Java Practices ☕
 
 This repository contains my **Java practice programs and coding exercises**.
