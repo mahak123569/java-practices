@@ -1,4 +1,84 @@
-solveing java
-practicing.
-daliy
-new question from java.
+You can add this **README.md** to your repository
+👉 GitHub repository:
+**java-practices GitHub repository**
+
+I wrote it so you can **copy-paste directly**.
+
+---
+
+# Java Practices ☕
+
+This repository contains my **Java practice programs and coding exercises**.
+I created this repository to improve my **Java programming skills and problem-solving ability**.
+
+🔗 **Repository Link:**
+[https://github.com/mahak123569/java-practices](https://github.com/mahak123569/java-practices)
+
+---
+
+## 📌 About
+
+This repository includes different Java programs that help me practice:
+
+* Java basics
+* Control statements
+* Loops
+* Arrays
+* String problems
+* Logic building
+* Coding practice questions
+
+The goal of this repository is to **practice Java regularly and improve problem-solving skills.**
+
+---
+
+## 🛠 Technologies Used
+
+* Java
+* VS Code / IntelliJ IDEA
+* Git & GitHub
+
+---
+
+## 📂 Repository Structure
+
+java-practices
+│
+├── Basics
+├── Loops
+├── Arrays
+├── Strings
+└── Practice Programs
+
+---
+
+## 🚀 How to Run
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/mahak123569/java-practices.git
+```
+
+2. Open the project in your Java IDE.
+
+3. Compile and run any Java file.
+
+---
+
+## 🎯 Purpose
+
+* Practice Java programming
+* Improve coding logic
+* Prepare for coding interviews
+* Track my learning journey
+
+---
+
+## ⭐ Support
+
+If you find this repository helpful, feel free to **star ⭐ the repository**.
+
+---
+
+If you want, I can also give you a **much better professional README (with badges, stats, and screenshots)** so your GitHub looks **more attractive for recruiters**.
