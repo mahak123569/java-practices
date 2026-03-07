@@ -27,7 +27,7 @@ The goal of this repository is to **practice Java regularly and improve problem-
 ## 🛠 Technologies Used
 
 * Java
-* VS Code / IntelliJ IDEA
+* VS Code 
 * Git & GitHub
 
 ---
