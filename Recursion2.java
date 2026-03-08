@@ -7,7 +7,7 @@ public class Recursion2 {
         }
         sum += i;
         printSum(i+1, n, sum);
-        //output 15
+        //output 15//
     }
     public static void main(String[] args) {
         printSum(1,5,0);
