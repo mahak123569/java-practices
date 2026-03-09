@@ -6,6 +6,7 @@ public class Recursion2 {
             return;
         }
         sum += i;
+        //sum
         printSum(i+1, n, sum);
         //output 15//
     }
