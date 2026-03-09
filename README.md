@@ -18,7 +18,7 @@ This repository includes different Java programs that help me practice:
 * Arrays
 * String problems
 * Logic building
-* Coding practice questions
+* Recursion
 
 The goal of this repository is to **practice Java regularly and improve problem-solving skills.**
 
