@@ -40,7 +40,7 @@ java-practices
 ├── Loops
 ├── Arrays
 ├── Strings
-└── Practice Programs
+└── Recursion
 
 ---
 
