@@ -1,0 +1,11 @@
+public class Recursion3 {
+public static int calcfactorial( int n){
+int fact_nm1 = calcfactorial(n-1);
+int fact_n = n* fact_nm1;
+return fact_n;
+
+}
+public static void main(String[] args) {
+    
+}
+}
