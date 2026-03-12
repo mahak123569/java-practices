@@ -6,6 +6,7 @@ public class Recursion4 {
         int c = a + b;
         System.out.println(c);
         printfib(b,c,n-1);
+        //fibonacci
     }
     public static void main(String[] args) {
         int a = 0 , b = 1;
