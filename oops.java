@@ -16,8 +16,8 @@ public class oops {
     pen1.type = "gel";
 
     Pen pen2 = new Pen();
-    pen2.color = "blue";
-    pen2.type = "gel";
+    pen2.color = "black";
+    pen2.type = "ballpoint";
 
     pen1.printColor();
     pen2.printColor();
