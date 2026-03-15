@@ -9,6 +9,18 @@ class Pen{
         
     }
 }
+
+class Student {
+    String name;
+    int age;
+
+    public void printInfo(){
+        System.out.println(this.name);
+        System.out.println(age);
+    }
+
+    
+}
 public class oops {
    public static void main(String[] args) {
     Pen pen1 = new Pen();
@@ -21,6 +33,13 @@ public class oops {
 
     pen1.printColor();
     pen2.printColor();
+
+
+    Student s1 = new Student();
+    s1.name = "Ananya";
+    s1.age = 22;
+
+    s1.printInfo();
     
    } 
 }
