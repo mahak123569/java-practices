@@ -4,6 +4,10 @@ class Pen{
     public void writen(){
         System.out.println("writing something");
     }
+    public void printColor() {
+        System.out.println(this.color);
+        
+    }
 }
 public class oops {
    public static void main(String[] args) {
@@ -11,6 +15,12 @@ public class oops {
     pen1.color = "blue";
     pen1.type = "gel";
 
-    pen1.writen();
+    Pen pen2 = new Pen();
+    pen2.color = "blue";
+    pen2.type = "gel";
+
+    pen1.printColor();
+    pen2.printColor();
+    
    } 
 }
