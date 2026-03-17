@@ -21,6 +21,10 @@ class Student {
     Student() {
         System.out.println("constructor called");
     }
+    Student(String name, int age) {
+        this.name = name;
+        this.age = age;
+    }
 
     
 }
@@ -43,6 +47,8 @@ public class oops {
     s1.age = 22;
 
     s1.printInfo();
-    
+
+    Student s2 = new Student("mahak",21);
+    s2.printInfo();
    } 
 }
