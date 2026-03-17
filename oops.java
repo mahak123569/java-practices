@@ -25,6 +25,10 @@ class Student {
         this.name = name;
         this.age = age;
     }
+     Student(Student s3 ){  //copy constructor
+        this.name = s3 .name;
+        this.age = s3 .age;
+    }
 
     
 }
@@ -50,5 +54,11 @@ public class oops {
 
     Student s2 = new Student("mahak",21);
     s2.printInfo();
+
+ Student s3 = new Student(s2);
+    s3.printInfo();
+
+
+
    } 
 }
