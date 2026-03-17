@@ -18,6 +18,9 @@ class Student {
         System.out.println(this.name);
         System.out.println(age);
     }
+    Student() {
+        System.out.println("constructor called");
+    }
 
     
 }
