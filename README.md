@@ -5,7 +5,7 @@ I created this repository to improve my **Java programming skills and problem-so
 
 🔗 **Repository Link:**
 [https://github.com/mahak123569/java-practices](https://github.com/mahak123569/java-practices)
-
+  github link :- https://github.com/mahak123569/mahak123569 
 ---
 
 ## 📌 About
