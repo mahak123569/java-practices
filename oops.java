@@ -29,6 +29,17 @@ class Student {
         this.name = s3 .name;
         this.age = s3 .age;
     }
+     //
+
+    public void printInfo(String name) {
+        System.out.println(name);
+    }
+      public void printInfo(int age) {
+        System.out.println(age);
+    }
+  public void printInfo(String name , int age) {
+        System.out.println(name + " "+ age);
+    }
 
     
 }
@@ -58,7 +69,7 @@ public class oops {
  Student s3 = new Student(s2);
     s3.printInfo();
 
-
+  s1.printInfo(s1.age);
 
    } 
 }
