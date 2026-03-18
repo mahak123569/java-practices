@@ -29,7 +29,7 @@ class Student {
         this.name = s3 .name;
         this.age = s3 .age;
     }
-     //
+     //polymorphism
 
     public void printInfo(String name) {
         System.out.println(name);
@@ -69,7 +69,7 @@ public class oops {
  Student s3 = new Student(s2);
     s3.printInfo();
 
-  s1.printInfo(s1.age);
+  s1.printInfo(s1.name,s1.age);
 
    } 
 }
