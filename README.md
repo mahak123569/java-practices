@@ -20,6 +20,7 @@ This repository includes different Java programs that help me practice:
 * String problems
 * Logic building
 * Recursion
+* oops
 
 The goal of this repository is to **practice Java regularly and improve problem-solving skills.**
 
