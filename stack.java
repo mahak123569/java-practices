@@ -22,6 +22,7 @@ public class stack {
             head = newNode;
 
         }
+        //pop
         public static int pop(){
             if(isEmpty()){
                 return -1;
@@ -30,6 +31,7 @@ public class stack {
             head = head.next;
             return top;
         }
+        //peek
       public static int peek(){
         if(isEmpty()){
                 return -1;
