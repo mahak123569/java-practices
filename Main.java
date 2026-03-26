@@ -10,7 +10,8 @@ public class Main {
         s.push(4);
 
         while (!s.isEmpty()) {
-            int top = s.peek();  // store value
+            int top = s.peek();  
+            // store value
             System.out.println(top);
             s.pop();
         }
