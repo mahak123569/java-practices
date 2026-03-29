@@ -1,3 +1,4 @@
-public class queue {
-    //jnh
+public class queue 
+{
+    //uhuhp
 }
