@@ -30,6 +30,7 @@ public class Adjacency {
         graph[3].add(new Edge(3, 2));
     }
 
+
     public static void main(String[] args) {
         int V = 4;
         ArrayList<Edge>[] graph = new ArrayList[V];
