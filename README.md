@@ -23,6 +23,8 @@ This repository includes different Java programs that help me practice:
 * oops
 * linklist
 * Graph
+* Stack
+* Queue
 
 The goal of this repository is to **practice Java regularly and improve problem-solving skills.**
 
