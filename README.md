@@ -21,7 +21,7 @@ This repository includes different Java programs that help me practice:
 * Logic building
 * Recursion
 * oops
-* linklist
+* Linkedlist
 * Graph
 * Stack
 * Queue
