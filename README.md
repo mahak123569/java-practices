@@ -25,6 +25,8 @@ This repository includes different Java programs that help me practice:
 * Graph
 * Stack
 * Queue
+* Hashing
+* Sorting
 
 The goal of this repository is to **practice Java regularly and improve problem-solving skills.**
 
