@@ -22,7 +22,7 @@ This repository includes different Java programs that help me practice:
 * Recursion
 * oops
 * linklist
-* Graphs
+* Graph
 
 The goal of this repository is to **practice Java regularly and improve problem-solving skills.**
 
