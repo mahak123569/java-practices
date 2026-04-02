@@ -29,6 +29,7 @@ This repository includes different Java programs that help me practice:
 * Hashmap
 * Sorting
 * BFS
+* DFS
   
 
 The goal of this repository is to **practice Java regularly and improve problem-solving skills.**
