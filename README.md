@@ -7,7 +7,7 @@ I created this repository to improve my **Java programming skills and problem-so
 [https://github.com/mahak123569/java-practices](https://github.com/mahak123569/java-practices)
 
 💼 GitHub: https://github.com/mahak123569
----
+
 
 ## 📌 About
 
@@ -34,7 +34,7 @@ This repository includes different Java programs that help me practice:
 
 The goal of this repository is to **practice Java regularly and improve problem-solving skills.**
 
----
+
 
 ## 🛠 Technologies Used
 
@@ -42,7 +42,7 @@ The goal of this repository is to **practice Java regularly and improve problem-
 * VS Code 
 * Git & GitHub
 
----
+
 
 ## 📂 Repository Structure
 
@@ -69,7 +69,7 @@ git clone https://github.com/mahak123569/java-practices.git
 
 3. Compile and run any Java file.
 
----
+
 
 ## 🎯 Purpose
 
